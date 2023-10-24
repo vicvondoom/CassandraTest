@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{293BC367-58D7-4C9B-9FD2-83AFE0934D43}|Default">
+  <MonoDevelop.Ide.ItemProperties.CassandraTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CassandraTest/Program.cs">
+    <Files>
+      <File FileName="CassandraTest/Program.cs" Line="28" Column="128" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CassandraTest" expanded="True">
+            <Node name="CassandraTest" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
